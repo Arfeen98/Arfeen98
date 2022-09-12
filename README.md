@@ -7,7 +7,7 @@
 </p>
 
 <h4>You can see my Resume
-  <a href="https://drive.google.com/file/d/11p-F885pXtG7b2z8ytyXC1yXHyhcYiUr/view?usp=sharing" target="_blank">here</a>.
+  <a href="https://drive.google.com/file/d/1NjKm9AalSdvvHDofBBPZ27PvGd3OeXRQ/view" target="_blank">here</a>.
 </h4>
 
 <hr/>
