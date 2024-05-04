@@ -3,11 +3,11 @@
 
 
 
-<p align="justify">An aspiring full-stack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects.Willing to learn and work across new technologies and domains.
+<p align="justify">Passionate full-stack developer with a proven track record of experience in building engaging and efficient web applications using React.js. Eager to bring my strong technical acumen, creativity, and dedication to crafting seamless user experiences to a forward-looking development team. Seeking an environment that fosters innovation and offers opportunities for continuous learning and growth.
 </p>
 
 <h4>You can see my Resume
-  <a href="https://drive.google.com/file/d/1FhY8KzsW0hTdd9PG_deTdrMstwTruHh0/view?usp=drive_link" target="_blank">here</a>.
+  <a href="https://drive.google.com/file/d/1xmAq_yCCnjlGOXVAicFTA2e4mrTJY84L/view" target="_blank">here</a>.
 </h4>
 
 <hr/>
